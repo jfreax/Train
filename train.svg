@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
      inkscape:cx="365.59163"
-     inkscape:cy="776.92823"
+     inkscape:cy="696.11602"
      inkscape:document-units="px"
      inkscape:current-layer="svg3124"
      showgrid="false"
@@ -65,6 +65,15 @@
      xlink:href="file:///home/jens/Locomotive.png"
      height="1034.5714"
      width="1034.5714" />
+  <path
+     style="opacity:0.57198421;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.49513364;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.97000005"
+     d="M 381.5 33.4375 C 310.92797 33.4375 253.27094 50.769173 249.3125 72.625 L 220.34375 151.28125 L 539.65625 150.5625 L 513.8125 73.375 C 511.04956 51.168577 452.87423 33.4375 381.5 33.4375 z "
+     id="path3968" />
+  <path
+     style="opacity:0.6264591;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.93627679;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dashoffset:2.97000005"
+     d="m 379.8125,96.75 c -44.32088,0.503893 -90.01719,5.14351 -130.49241,24.44233 -12.95048,6.5981 -28.14658,17.19229 -29.23781,32.6373 2.1184,37.45262 4.23681,74.90525 6.35522,112.35787 103.20833,0 206.41667,0 309.625,0 1.04396,-38.24253 2.24789,-76.54921 3.19848,-114.74932 -3.82689,-18.47774 -23.08056,-27.76284 -38.72744,-34.76867 C 462.35274,101.41759 420.63294,97.066157 379.8125,96.75 z"
+     id="rect3900"
+     inkscape:connector-curvature="0" />
   <g
      id="layer1"
      inkscape:groupmode="layer"
@@ -77,7 +86,7 @@
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.19058418;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dashoffset:2.97000005" />
   </g>
   <path
-     style="opacity:0.6264591;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.45818043;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.97000005"
+     style="opacity:0.71984436;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.45818042999999964;stroke-linejoin:miter;stroke-miterlimit:3.79999995000000013;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.97000004999999989"
      d="m 383.125,115.1875 c -45.16938,0.27776 -98.66911,16.04397 -119.32612,60.03212 -9.69262,29.60589 -16.66771,61.3265 -25.30124,91.76138 -17.74492,67.09973 -36.46086,134.92723 -53.56014,201.519 -12.24288,64.23066 26.24301,129.04238 81.49829,160.29806 89.74958,53.96197 221.02488,36.7602 284.64709,-49.51954 28.86228,-38.25938 36.10727,-90.35276 20.73306,-135.02023 C 549.23147,355.52636 526.64701,266.79443 504.06255,178.0625 487.16707,137.96438 440.55928,119.26809 399.34808,115.88103 393.95369,115.41622 388.5391,115.18752 383.125,115.1875 z"
      id="path3377"
      inkscape:connector-curvature="0" />
@@ -155,13 +164,4 @@
        id="rect3826-8"
        style="opacity:0.6264591;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.97000005" />
   </g>
-  <path
-     style="opacity:0.57198421;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.49513364;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.97000005"
-     d="M 381.5 33.4375 C 310.92797 33.4375 253.27094 50.769173 249.3125 72.625 L 220.34375 151.28125 L 539.65625 150.5625 L 513.8125 73.375 C 511.04956 51.168577 452.87423 33.4375 381.5 33.4375 z "
-     id="path3968" />
-  <path
-     style="opacity:0.6264591;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.93627679;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dashoffset:2.97000005"
-     d="m 379.8125,96.75 c -44.32088,0.503893 -90.01719,5.14351 -130.49241,24.44233 -12.95048,6.5981 -28.14658,17.19229 -29.23781,32.6373 2.1184,37.45262 4.23681,74.90525 6.35522,112.35787 103.20833,0 206.41667,0 309.625,0 1.04396,-38.24253 2.24789,-76.54921 3.19848,-114.74932 -3.82689,-18.47774 -23.08056,-27.76284 -38.72744,-34.76867 C 462.35274,101.41759 420.63294,97.066157 379.8125,96.75 z"
-     id="rect3900"
-     inkscape:connector-curvature="0" />
 </svg>
