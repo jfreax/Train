@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="422.32392"
-     inkscape:cy="588.19106"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="466.64597"
+     inkscape:cy="433.01909"
      inkscape:document-units="px"
      inkscape:current-layer="svg3124"
      showgrid="false"
@@ -203,13 +203,12 @@
      x="110.10663"
      y="604.88489"
      ry="28.789347" />
-  <rect
-     style="opacity:1;fill:#08090e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:3.79999995000000013;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.97000004999999989"
+  <path
+     style="fill:#08090e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 146.03573,545.93359 462.24747,-3.283 c 0.0989,-7e-4 5.79068,3.00559 5.78825,3.10444 l -5.35714,218.57142 c -0.002,0.0989 -0.0796,0.17857 -0.17857,0.17857 l -462.50001,0 c -0.0989,0 -0.17695,-0.0796 -0.17857,-0.17857 l -3.57143,-218.57142 c -0.002,-0.0989 3.65113,0.17926 3.75,0.17856 z"
      id="rect4096"
-     width="462.85715"
-     height="218.57143"
-     x="145.85716"
-     y="545.93359" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssss" />
   <path
      sodipodi:type="arc"
      style="fill:#3b4056;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -270,12 +269,12 @@
      transform="matrix(0.63303247,0,0,0.59120841,128.47514,222.42734)" />
   <path
      sodipodi:type="arc"
-     style="opacity:1;fill:#ffebbb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.63999986999999958;stroke-linejoin:miter;stroke-miterlimit:3.79999995000000013;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.97000004999999989"
+     style="fill:#ffebbb;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="path3377-7-2"
      sodipodi:cx="397.49503"
      sodipodi:cy="482.13107"
      sodipodi:rx="198.49496"
      sodipodi:ry="176.27162"
      d="m 595.98999,482.13107 a 198.49496,176.27162 0 1 1 -396.98993,0 198.49496,176.27162 0 1 1 396.98993,0 z"
-     transform="matrix(0.18311722,0,0,0.1375326,308.95891,473.90611)" />
+     transform="matrix(0.18311722,0,0,0.1375326,308.05966,453.90611)" />
 </svg>
